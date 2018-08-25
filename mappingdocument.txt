@@ -1,0 +1,3 @@
+sourcefield	targetfield
+fname	firstname
+lname	lastname
